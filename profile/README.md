@@ -56,4 +56,4 @@ A arquitetura do TrackPromo é dividida nos seguintes microsserviços e componen
 | :--- | :--- | :--- |
 | <img src="https://avatars.githubusercontent.com/u/54083776?v=4" width="50" style="border-radius: 50%"> | Caio Victor | [@CaioVFA](https://github.com/CaioVFA) |
 | <img src="https://avatars.githubusercontent.com/u/95772104?v=4" width="50" style="border-radius: 50%"> | João Gabriel | [@jgluiggi](https://github.com/jgluiggi) |
-| <img src="https://avatars.githubusercontent.com/u/129864914?v=4" width="50" style="border-radius: 50%"> | Nome do Colega | [@losout0](https://github.com/losout0) |
+| <img src="https://avatars.githubusercontent.com/u/129864914?v=4" width="50" style="border-radius: 50%"> | Leandro Souto | [@losout0](https://github.com/losout0) |
